@@ -9,9 +9,9 @@ Refer the problem.md file for problem description.
 
 2. **CLONE** the forked repository, containing the boilerplate in your local machine
      
-3. Navigate to exercise-bt-conditionalstatements-switchcase folder
+3. Navigate to Exercise-bt-conditionalstatements-switchcase folder
 
-    `cd exercise-bt-conditionalstatements-switchcase`
+    `cd Exercise-bt-conditionalstatements-switchcase`
 
 4. Check the status of your repository
      

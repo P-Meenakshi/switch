@@ -1,22 +1,20 @@
 ## Problem Statement: Develop a calculator using switch case##
 
 **Get two numbers of type of integer or double from the user and perform the operation(Add,Multiply,Divide,Subtract)
-selected by the user using switch case, if-else statement,break and looping switch using recursion.
+selected by the user using switchcase, if-else statement,break and looping switchcase using recursion**
 
-**This exercise contains a class named Calculator with the following method:**
+**This exercise contains a class named Calculator with the following methods:**
 
-    calculate(int firstValue,int secondValue,int operator):String  
-  
-     - Method should take three integers(firstValue,secondValue,operator) as input and return a String of format "firstValue operation secondValue = result".
-     - switch case should be used to provide user operations as option to select.
-     - The no of switch cases should be similar to number of operation options provided in menu.    
-     - operator value that is not present as a case should be dealt by default case.
-     
-    getValues(Scanner scan):String  
-  
-     - Method should get three integers from user as input from console using scanner.
-     - After receiving the operands the operation menu should be shown to the user to choose from. 
-     - All the three values should be send to calculate method and return value should be printed out to user.
+    +calculate(int, int, int) : String  
+         - Should take three integers(firstValue,secondValue,operator) as input and return a String of format "firstValue operation secondValue = result"
+         - Switch case should be used to provide user operations as option to select
+         - The number of switch cases should be similar to number of operation options provided in menu 
+         - Operator value that is not present as a case should be dealt by default case
+-------------------------------------------------------
+    +getValues(Scanner) : String  
+         - Should get three integers from user as input from console using scanner
+         - After receiving the operands the operation menu should be shown to the user to choose from
+         - All the three values should be send to calculate method and return value should be printed out to user
 
 ## Example
     Expected Output:
