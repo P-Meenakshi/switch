@@ -1,4 +1,4 @@
-## Problem Statement: Develop a calculator using switch case##
+## Problem Statement: Develop a calculator using switch case ##
 
 **Get two numbers of type of integer or double from the user and perform the operation(Add,Multiply,Divide,Subtract)
 selected by the user using switchcase, if-else statement,break and looping switchcase using recursion**
