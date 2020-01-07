@@ -11,7 +11,7 @@ public class CalculatorAppTests {
     private ByteArrayOutputStream outStream;
 
     @BeforeEach
-    public void setup() {
+    public void setUp() {
         outStream = new ByteArrayOutputStream();
         System.setOut(new PrintStream(outStream));
     }
