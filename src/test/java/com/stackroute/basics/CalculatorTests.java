@@ -10,7 +10,7 @@ public class CalculatorTests {
     private Calculator calculator;
 
     @BeforeEach
-    public void setup() {
+    public void setUp() {
         calculator = new Calculator();
     }
 
