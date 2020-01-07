@@ -1,4 +1,4 @@
-## Problem Statement: Develop a calculator using switch case##
+## Problem Statement: Develop a calculator using switch case ##
 
 **Get two numbers of type of integer or double from the user and perform the operation(Add,Multiply,Divide,Subtract)
 selected by the user using switchcase, if-else statement,break and looping switchcase using recursion**
@@ -86,6 +86,7 @@ selected by the user using switchcase, if-else statement,break and looping switc
     4
     The divider (secondValue) cannot be zero 
 ## Instructions
+
 - Avoid printing unnecessary values other than expected output as given in sample
 - Take care of whitespace/trailing whitespace
 - Do not change the provided class/method names unless instructed

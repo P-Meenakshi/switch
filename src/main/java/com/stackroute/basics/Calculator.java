@@ -3,12 +3,15 @@ package com.stackroute.basics;
 import java.util.Scanner;
 
 public class Calculator {
+    private static Scanner scan;
+
+    // define,declare scanner and call getValues with scanner as parameter
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        scan = new Scanner(System.in);
         new Calculator().getValues(scan);
     }
 
-    //Get values and which operator from the menu and pass it to calculate method
+    //Get values and which operator from the menu
     public void getValues(Scanner scan) {
 
     }
